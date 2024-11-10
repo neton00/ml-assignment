@@ -1,7 +1,9 @@
-# ml-assignment
+## 목차
+  - [개요](#개요) 
+  
 
-기계학습및실습 타이타닉데이터분석 과제
-
-## 작성자
-
-2023101000 이준오
+## 개요
+- 프로젝트 이름: ml-assignment
+- 사용 언어 및 버전: python 3.10.14
+- 사용 라이브러리 : numpy, pandas, matplotlib, seaborn
+- 작성자 : 이준오 
