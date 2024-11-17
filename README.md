@@ -17,7 +17,7 @@
 
 - 통계적 검증, 단일 및 다중 변수 시각화, 집계 등을 통한 데이터 분석과 분석한 결과를 바탕으로 본인 스스로 결과를 분석하여 서술해야 함
 
-## 분석과정
+
 
 ### 데이터 분석에 필요한 라이브러리 import
 
@@ -26,7 +26,4 @@
 - import matplotlib.pyplot as plt
 - import seaborn as sns
 
-### 데이터 읽어오기
 
-- train = pd.read_csv('data/train.csv')
-- test = pd.read_csv('data/test.csv')
