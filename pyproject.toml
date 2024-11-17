@@ -4,7 +4,7 @@
 
 ## 개요
 - 프로젝트 이름: ml-assignment
-- 사용 언어 및 버전: python 3.10.14
+- 사용 언어 및 버전: python 3.10.15
 - 사용 라이브러리 : numpy, pandas, matplotlib, seaborn, scikit-learn
 - 작성자 : 이준오 
 
